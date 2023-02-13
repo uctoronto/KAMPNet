@@ -1,2 +1,3 @@
 # KAMPNet
-The proposed model called KAMPNet
+The proposed model called KAMPNet.
+The data used in the paper is from a publicly available dataset MIMIC-III (https://physionet.org/content/mimiciii/1.4/). And the preprocessed data utilized in the paper is provided in this repository.
